@@ -1,0 +1,197 @@
+
+*{
+	margin : 0;
+	padding: 0;
+	
+}
+
+.Navbtn{
+	background-color: white;
+	border: rgb(27, 119, 30);
+	color: rgb(27, 119, 30);
+	padding: 0px 0px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	width: 80px;
+}
+
+a{
+	text-decoration: none;
+	color: honeydew;
+}
+
+ul li {
+	list-style: none;
+}
+
+.topbar{
+	background-color: blue;
+	padding: 10px;
+	color: honeydew;
+}
+.topbar i{
+	 margin:0 7px;
+	
+}
+.show-in-line{
+	display: inline-block;
+}
+.social{
+	float:left;
+}
+.moto{
+	float: left;
+	margin-left: 100px;
+	font-size: 13px;
+}
+
+
+
+
+.clear{
+	clear: both;
+}
+
+.Saylani_logo{
+    width: 30px;
+}
+.navTop{
+    background-color: blue;
+}
+
+.top_bar{
+	background-color:#316DC3;
+	padding:5px 0;
+}
+
+.top_MrginRemove{
+	margin-top: -21px;
+}
+.top_MrginRemove2{
+	margin-top: -12px;
+}
+
+
+.siteblue{
+	color:#316DC3;
+}
+.topText{
+    color: cornsilk;
+}
+
+
+.social-icons{
+    margin-right:15px;
+}
+
+.topBtn{
+    border-radius: 2px;
+    border-color: darkgreen;
+    color: darkgreen;
+    text-align: center;
+}
+.topdiv{
+    text-align: center;
+}
+
+@media (max-width:1200px){
+	.my_menu .pull-right{
+		float:none !important;}
+}
+
+
+.div1{
+	border-radius: 2px red;
+	background-color: darkmagenta;
+}
+
+.div2{
+	border-radius: 2px red;
+	background-color: darksalmon;
+}
+
+
+
+ .backspace{
+	margin-left: -7px;
+ }
+ .centering{
+	 text-align: center;
+ }
+ .estimation{
+	 background-color: #2655E8;
+	 padding-top: 50px;
+	 padding-bottom: 50px;
+	 
+ }
+
+ .spacing{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+ .textsize{
+	font-family: cursive;
+ }
+
+ .sidespacing{
+ }
+
+ .divmargin{
+ }
+
+ .removeGaping{
+	margin-bottom: 0px;
+ }
+ .hv:hover{
+	 background-color: #316DC3;
+	 -webkit-text-fill-color: white;
+
+	 border-radius: 40px;
+	
+ }
+
+ .hv1:hover{
+	background-color: #316DC3;
+	-webkit-text-fill-color: white;
+}
+
+ .leftSide{
+	margin-left: -4px;
+ }
+
+ .leftSideNav{
+	margin-left: -4px;
+	font-size: small;
+ }
+ .BottomSide{
+	margin-bottom: -4px;
+ }
+
+.intoText{
+	text-align: left;
+	font-weight: lighter;
+	font-size: small;
+	font-family: sans-serif;
+	color: grey;
+}
+
+.footerText{
+	color: gray;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+}
+ 
+.footericons{
+	background-color: #316DC3;
+	border-radius: 100px;
+	height: 40px;
+	width: 40px;
+   
+}
